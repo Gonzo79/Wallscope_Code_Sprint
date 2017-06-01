@@ -1,7 +1,7 @@
 <?php 
 
-$API_KEY = 'mSvg1p0kUwrsr9NtjoUX5iu3pYIa';
-$API_SECRET = 'ongfeu0Xx9cT8JVYA4C4_sTfnx4a';
+$API_KEY = '_y5gW4rjOj5VaXnUChkTroLmq8sa';
+$API_SECRET = 'pJaGL9T3wLmstubATqV3rWh_sJEa';
 $base64 = base64_encode($API_KEY.':'.$API_SECRET);
 
 $url = 'https://verinote.net/token?grant_type=client_credentials';
